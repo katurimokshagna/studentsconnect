@@ -5,8 +5,8 @@ on:
     branches: [ "main" ]
 
 env:
-  AWS_REGION: ap-south-1
-  S3_BUCKET: "tejas-idsk229"
+  AWS_REGION: Europe (Stockholm) eu-north-1
+  S3_BUCKET: "katuru1721"
 
 permissions:
   contents: read
